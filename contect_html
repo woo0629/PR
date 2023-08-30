@@ -109,14 +109,12 @@
         <div class="img_box">
         <img class="img" src="img/내사진.png" />
         <div class="self_box">
-          <div class="name">취미</div>
-          <div class="name">MBTI</div>
-          <div class="name">지원동기</div>
+          <div class="name">mail</div>
+          
         
         <div class="self_inner">
-          <p class="name_inner">러닝 / 풋살 / 맛집탐방 / 여행</p>
-          <p class="name_inner">ISTJ</p>
-          <p class="name_inner"></p>
+          <p class="name_inner">러닝 / 여행</p>
+          
 
         </div>
         
